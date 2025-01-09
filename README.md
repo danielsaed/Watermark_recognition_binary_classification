@@ -17,6 +17,14 @@
 
 <br>
 
+## Automation functionality
+
+ <table align="middle">
+  <tr align="middle">
+    <td><img src="https://github.com/danielsaed/Watermark_recognition_binary_classification/blob/main/docs/img/Diagram.jpg" width=650 height=325 
+    align="middle"></td>
+  </tr>
+ </table>
 
 
 ## Image acquisition:
@@ -53,7 +61,7 @@
 
  ## Model:
  ### Train Config:
-*NN train settings could be different to the final deployed version*
+- *NN train settings could be different to the final deployed version*
  <table align="middle">
   <tr align="middle">
     <td><img src="https://github.com/danielsaed/Watermark_recognition_binary_classification/blob/main/docs/img/Train.jpg" width=650 height=325 
@@ -62,7 +70,7 @@
  </table>
 
   ### Model Config:
-*NN model settings could be different to the deployed version*
+- *NN model settings could be different to the deployed version*
  <table align="middle">
   <tr align="middle">
     <td><img src="https://github.com/danielsaed/Watermark_recognition_binary_classification/blob/main/docs/img/NN.jpg" width=650 height=325 
