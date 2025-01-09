@@ -2,15 +2,15 @@
 
 <br>
 
-## Herramientas utilizadas
+## Main tools utilized
 
 - Python 3.6 
 - Open CV
 - Tensorflow
 
-**Todas las librerias usaron versiones compatibles con Python 3.6** 
+**Used last version of libraries compatible with Python 3.6** 
 
-*Python 3.6 fue utilizado por motivos de cyberseguridad*
+*Python 3.6 was used due to cybersecurity company policy*
 
 
 
@@ -19,7 +19,7 @@
 
 
 
-## Obtencion de imagenes:
+## Image acquisition:
 
  <table align="middle">
   <tr align="middle">
@@ -27,3 +27,46 @@
     align="middle"></td>
   </tr>
  </table>
+
+  ## Dataset Generation:
+
+### Problem / Solution: Data augmentation
+ <table align="middle">
+  <tr align="middle">
+    <td><img src="https://github.com/danielsaed/Watermark_recognition_binary_classification/blob/main/docs/img/Problem.jpg" width=650 height=325 
+    align="middle"></td>
+  </tr>
+ </table>
+
+## Image processing:
+
+ <table align="middle">
+  <tr align="middle">
+    <td><img src="https://github.com/danielsaed/Watermark_recognition_binary_classification/blob/main/docs/img/Open CV.jpg" width=650 height=325 
+    align="middle"></td>
+  </tr>
+    <tr align="middle">
+    <td><img src="https://github.com/danielsaed/Watermark_recognition_binary_classification/blob/main/docs/img/Treshold.jpg" width=650 height=325 
+    align="middle"></td>
+  </tr>
+ </table>
+
+ ## Model:
+ ### Train Config:
+*NN train settings could be different to the final deployed version*
+ <table align="middle">
+  <tr align="middle">
+    <td><img src="https://github.com/danielsaed/Watermark_recognition_binary_classification/blob/main/docs/img/Train.jpg" width=650 height=325 
+    align="middle"></td>
+  </tr>
+ </table>
+
+  ### Model Config:
+*NN model settings could be different to the deployed version*
+ <table align="middle">
+  <tr align="middle">
+    <td><img src="https://github.com/danielsaed/Watermark_recognition_binary_classification/blob/main/docs/img/NN.jpg" width=650 height=325 
+    align="middle"></td>
+  </tr>
+ </table>
+
