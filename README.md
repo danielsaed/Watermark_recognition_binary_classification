@@ -21,7 +21,7 @@
 
  <table align="middle">
   <tr align="middle">
-    <td><img src="https://github.com/danielsaed/Watermark_recognition_binary_classification/blob/main/docs/img/Diagram.jpg" width=650 height=325 
+    <td><img src="https://github.com/danielsaed/Watermark_recognition_binary_classification/blob/main/docs/img/Diagram.png" width=650 height=325 
     align="middle"></td>
   </tr>
  </table>
