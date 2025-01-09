@@ -17,15 +17,17 @@
 
 <br>
 
-## Automation functionality
+- ## Automation functionality
 
- <table align="middle">
-  <tr align="middle">
-    <td><img src="https://github.com/danielsaed/Watermark_recognition_binary_classification/blob/main/docs/img/Diagram.png" width=650 height=325 
-    align="middle"></td>
-  </tr>
- </table>
 
+![screenshot](docs/img/Diagram.png)
+
+<br>
+<br>
+<br>
+<br>
+
+# Create model process
 
 ## Image acquisition:
 
