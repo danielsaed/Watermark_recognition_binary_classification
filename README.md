@@ -1,6 +1,11 @@
 # Watermark Recognition, Binary Classification
 
+This project was developed as part of an initiative at Huawei to streamline the process of detecting watermarks in images. By automating watermark recognition, this solution significantly reduced the need for manual image checks previously performed through Excel, saving time and improving operational efficiency.
 <br>
+
+## Project Overview
+
+The goal of this project was to build a binary classification model capable of identifying watermarked images. This automation replaced labor-intensive manual checks with a machine learning-based solution, enabling faster and more accurate processing.
 
 ## Main tools utilized
 
